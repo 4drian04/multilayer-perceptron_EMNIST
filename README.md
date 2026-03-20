@@ -180,4 +180,4 @@ Ejecutar el proyecto
 
 ## 👨‍💻 Autor
 
-Adrián García García
+**Adrián García García** - [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-garc%C3%ADa-garc%C3%ADa-6ab399333/)
