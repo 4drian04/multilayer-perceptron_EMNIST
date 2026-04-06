@@ -1,0 +1,11 @@
+tensorflow
+tensorflow-datasets
+pillow
+matplotlib
+numpy
+keras
+scikit-learn
+seaborn
+plotly
+pandas
+scipy
